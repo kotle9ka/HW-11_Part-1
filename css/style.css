@@ -1,0 +1,22 @@
+.header {
+  background-color: #f8f9fa;
+  padding: 20px;
+}
+.header-nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+}
+.header-nav-item a {
+  text-decoration: none;
+  color: #333;
+  padding: 10px;
+}
+.Project {
+  padding: 20px;
+  background-color: #eee;
+}
+.Project-item-foto {
+  width: 100px;
+  height: 100px;
+}
